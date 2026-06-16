@@ -29,7 +29,7 @@ Projekt nevyžaduje instalaci žádných externích knihoven přes `pip`. Vše b
 
 1. Naklonuj repozitář [Blackjack](https://github.com/Badsoul01/Blackjack):
     ```bash
-    git clone  [https://github.com/Badsoul01/Blackjack](https://github.com/Badsoul01/Blackjack)
+    git clone https://github.com/Badsoul01/Blackjack
     ```
 2. Přejdi do složky s projektem:
     ```bash
